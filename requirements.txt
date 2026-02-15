@@ -1,0 +1,17 @@
+torch
+sentence-transformers
+transformers
+pandas
+numpy
+requests
+beautifulsoup4
+langchain
+langchain-openai
+tqdm
+jupyter
+ipykernel
+notebook
+matplotlib
+seaborn
+datasets
+huggingface-hub
